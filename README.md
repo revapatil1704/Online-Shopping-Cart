@@ -4,6 +4,9 @@ The Shopping Cart System is a simple console-based Java application that allows 
 
 
 
+
+
+
 🎯 Features
 
 Show available store items
@@ -17,6 +20,10 @@ Calculate total amount
 Exit the program
 
 Case-insensitive item input
+
+
+
+
 
 
 
@@ -36,6 +43,9 @@ OOP (Object-Oriented Programming)
 ShoppingCart
     Cart.java
     ShoppingMain.java
+
+
+
 
 
 				
